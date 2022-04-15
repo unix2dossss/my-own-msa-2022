@@ -129,4 +129,4 @@ As you go through and do these modules, you'll find that you need quite a few to
 * [ ] This is an empty checklist item
   - [x] This is a completed checklist item! you can complete checklist items by opening up this README file in edit mode, and putting an **X** character between the open square brackets.
   
--[X] Completed GitHub Workshop
+-[X] Completed GitHub Workshop (this is a test comment to see if I have changed the remote repistory to one of my own successfully)
